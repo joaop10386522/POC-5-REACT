@@ -25,7 +25,7 @@ import HelloWorld from '../components/HelloWorld';
 export default function HomePage() {
   return (
     <div>
-      <h1>Welcome to my Next.js Project</h1>
+      <h1Welcome to my Next.js Project</h1
       <HelloWorld />
     </div>
   );
