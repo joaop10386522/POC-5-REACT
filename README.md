@@ -1,6 +1,8 @@
 # POC-5-REACT
 
 
+# João Pedro Gonzaga e Felipe Berthoux
+
 # 1. Estrutura de Projeto no Next.js 14+
 A estrutura padrão de um projeto Next.js oferece uma organização prática para os arquivos e facilita a navegação entre as rotas. Abaixo estão algumas das pastas principais e seus papéis no desenvolvimento de um projeto organizado:
 app/: Introduzida no Next.js 13, essa pasta substitui pages/ para definir o roteamento. Cada subpasta dentro de app/ representa uma rota. Assim, app/about/page.js cria uma rota /about, permitindo uma estruturação fácil e intuitiva.
